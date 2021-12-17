@@ -1,0 +1,12 @@
+.bg-night {
+    background-color: darkblue;
+}
+
+input:focus,
+select:focus {
+    outline: none;
+}
+
+.weatherIconNight {
+    filter: brightness(0) invert(1);
+}
